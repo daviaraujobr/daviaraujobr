@@ -13,7 +13,6 @@
   <img align="right" alt="Davi-Imagem" height="150" style="border-radius:70px;" src="https://avatars.githubusercontent.com/u/84422077?s=400&u=6535ccc0d8b6bd81e0b8732d48cc62829352a828&v=4">
 </div>
   
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=daviaraujobr&theme=gotham&hide_border=true&area=true)
   ##
  
 <div> 
@@ -21,6 +20,8 @@
  <a href="https://discord.gg/J E A N M#2227" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:daviaraujobr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-de-araujo-5b3942212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=daviaraujobr&theme=gotham&hide_border=true&area=true)
   
  ## Sistemas operadcionais que uso.
   <div>
