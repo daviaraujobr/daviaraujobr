@@ -23,7 +23,7 @@
   
   
   
-  <p>![Contribution](https://activity-graph.herokuapp.com/graph?username=daviaraujobr&theme=dracula&hide_border=true&area=true)</p>
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=daviaraujobr&theme=dracula&hide_border=true&area=true)
   
   
   
