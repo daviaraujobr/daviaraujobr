@@ -20,7 +20,7 @@
   <a href = "mailto:daviaraujobr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-de-araujo-5b3942212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ## <h1> Sistemas operadcionais que uso. <h1>
+  <h1> Sistemas operadcionais que uso. <h1>
   <div>
   <a href="https://www.microsoft.com/pt-br/windows/?r=1" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="https://www.apple.com/br/" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
