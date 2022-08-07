@@ -28,5 +28,10 @@
   </div>
  
   ![Snake animation](https://github.com/daviaraujobr/daviaraujobr/blob/output/github-contribution-grid-snake.svg)
+  
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{daviaraujobr}/count.svg" /></p> 
+<br></div>
  
 </div>
