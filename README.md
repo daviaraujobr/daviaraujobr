@@ -29,7 +29,6 @@
     <a href="https://www.apple.com/br/" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="https://www.apple.com/br/ios/ios-15/" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
   </div>
-  
   ##
  
   ![Snake animation](https://github.com/daviaraujobr/daviaraujobr/blob/output/github-contribution-grid-snake.svg)
