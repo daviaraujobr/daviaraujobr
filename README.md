@@ -13,6 +13,7 @@
   <img align="right" alt="Davi-Imagem" height="150" style="border-radius:70px;" src="https://avatars.githubusercontent.com/u/84422077?s=400&u=6535ccc0d8b6bd81e0b8732d48cc62829352a828&v=4">
 </div>
   
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=daviaraujobr&theme=gotham&hide_border=true&area=true)
   ##
  
 <div> 
@@ -31,13 +32,9 @@
  
   ![Snake animation](https://github.com/daviaraujobr/daviaraujobr/blob/output/github-contribution-grid-snake.svg)
   
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=daviaraujobr&theme=gotham&hide_border=true&area=true)
-  
   <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{daviaraujobr}/count.svg" /></p> 
-<br></div>
- 
-  
+<br></div>  
   
 </div>
