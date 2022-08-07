@@ -25,7 +25,6 @@
   <a href="https://www.microsoft.com/pt-br/windows/?r=1" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="https://www.apple.com/br/" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="https://www.apple.com/br/ios/ios-15/" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"</a>
-    <a href="https://starchart.cc/{username}/{repo}.svg" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"</a>
   </div>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
