@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#000000&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FFFFFF&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ## Olá eu sou o Davi de Araujo, estudante de engenharia, programação e tecnologia!
 <div align="center">
@@ -42,4 +42,4 @@
   
 </div>
   
-  <img width=100% style="transform:rotate(180deg);" src="https://capsule-render.vercel.app/api?type=waving&color=#000000&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FFFFFF&height=180&section=footer"/>
