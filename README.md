@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=header&text=&fontSize=30&fontColor=&animation=twinkling&fontAlignY=35"/>
 
-## Olá eu sou o Davi de Araujo C., estudante de engenharia, programação e tecnologia!
+## Olá eu sou o Davi de Araujo, estudante de engenharia, programação e tecnologia!
 <div align="center">
   <a href="https://github.com/daviaraujobr">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviaraujobr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviaraujobr&layout=compact&langs_count=7&theme=dark"/>
