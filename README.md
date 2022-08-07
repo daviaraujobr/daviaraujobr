@@ -10,7 +10,7 @@
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Davi-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="right" alt="Davi-Imagem" height="149" style="border-radius:70px;" src="https://avatars.githubusercontent.com/u/84422077?s=400&u=6535ccc0d8b6bd81e0b8732d48cc62829352a828&v=4">
+  <img align="right" alt="Davi-Imagem" height="130" style="border-radius:70px;" src="https://avatars.githubusercontent.com/u/84422077?s=400&u=6535ccc0d8b6bd81e0b8732d48cc62829352a828&v=4">
 </div>
   
   ##
