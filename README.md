@@ -3,10 +3,7 @@
   <a href="https://github.com/daviaraujobr">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviaraujobr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviaraujobr&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=daviaraujobr&theme=gotham&hide_border=true&area=true)
-  
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,9 +31,13 @@
  
   ![Snake animation](https://github.com/daviaraujobr/daviaraujobr/blob/output/github-contribution-grid-snake.svg)
   
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=daviaraujobr&theme=gotham&hide_border=true&area=true)
+  
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{daviaraujobr}/count.svg" /></p> 
 <br></div>
  
+  
+  
 </div>
