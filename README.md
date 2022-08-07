@@ -22,7 +22,10 @@
   <a href="https://www.linkedin.com/in/davi-de-araujo-5b3942212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ##
+  
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=daviaraujobr&theme=dracula&hide_border=true&area=true)
+  
+  ##
   
  ## Sistemas operadcionais que uso.
   <div>
@@ -31,6 +34,8 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   </div>
+  
+  ##
   
  ![Snake animation](https://github.com/daviaraujobr/daviaraujobr/blob/output/github-contribution-grid-snake.svg)
   
