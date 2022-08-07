@@ -9,7 +9,7 @@
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Davi-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="right" alt="Davi-Imagem" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/2d/6e/70/2d6e704764371391dd51b7a10ed83cd9.jpg">
+  <img align="right" alt="Davi-Imagem" height="180" style="border-radius:70px;" src="https://i.pinimg.com/originals/2d/6e/70/2d6e704764371391dd51b7a10ed83cd9.jpg">
 </div>
   
   ##
