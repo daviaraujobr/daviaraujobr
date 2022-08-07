@@ -22,6 +22,7 @@
   <a href="https://www.linkedin.com/in/davi-de-araujo-5b3942212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.microsoft.com/pt-br/windows/?r=1" target="_blank"><img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white></a>
   
+  ## Olá eu sou o Davi de Araujo,
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
