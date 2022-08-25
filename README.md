@@ -35,11 +35,6 @@
   
  ![Snake animation](https://github.com/daviaraujobr/daviaraujobr/blob/output/github-contribution-grid-snake.svg)
   
-  <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{daviaraujobr}/count.svg" /></p> 
-<br></div>  
-  
 </div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
