@@ -3,7 +3,7 @@
 ## Olá eu sou o Davi de Araujo, estudante de engenharia, programação e tecnologia!
 <div align="center">
   <a href="https://github.com/daviaraujobr">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviaraujobr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>     <img height="159em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviaraujobr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviaraujobr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviaraujobr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
